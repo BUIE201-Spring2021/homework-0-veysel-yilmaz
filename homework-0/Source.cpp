@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello, World" << endl;
-	cout << "Merhaba dünya" << endl;
+	cout << "My name is Veysel Yilmaz" << endl;
 
 	return 0;
 }
